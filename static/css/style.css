@@ -1,0 +1,19 @@
+.jumbotron {
+    background: url("https://now.tufts.edu/sites/default/files/uploaded-assets/images/2022-08/220817_viruses_bacterial_infection.jpg");
+    background-size: cover;
+}
+body {
+    color-scheme: 1px 1px 2px #435992;
+}
+
+.panel-default > .panel-heading-custom {
+    background: #D24E68; color: #fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+.jumbotron > h1 {
+    text-shadow: 1px 1px 2px #f0f2f7;
+}
